@@ -1,5 +1,5 @@
 import java.util.Scanner;
-class Main {
+class Prob1{
     public static void main(String args[]) {
         Scanner obj=new Scanner(System.in);
         System.out.println("Side1:");
